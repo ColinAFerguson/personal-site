@@ -1,0 +1,17 @@
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+title = "Colin Ferguson's Personal Site"
+theme = "cocoa"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Colin Ferguson"
+canonifyurls = true
+disqusShortname = "ColinFergusonWebsite"
+
+[params]
+Author = "Colin Ferguson"
+CacheBuster = true
+DateForm = "Jan 2, 2006"
+DateFormFull = "Mon Jan 2 2006 15:04:05 EST"
+Description = ""
